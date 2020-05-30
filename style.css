@@ -1,12 +1,13 @@
 body{
-	font-family: 'Open Sans',sans-serif;
-	background-color: rgb(53, 53, 53);
-	
+        font-family: 'Open Sans',sans-serif;
+	/*background-color: rgb(53, 53, 53);
+	*/
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("bg.jpg");
+	background-attachment: fixed;
+	overflow: hidden;	
 }
 #container{
-	
 	margin: 0 auto;	
-	
 }
 #calculator{
 	width: 320px;
