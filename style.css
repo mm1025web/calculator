@@ -69,30 +69,30 @@ body{
 }
 button:nth-child(4){
 	font-size: 20px;
-	background-color: #00fff2;
+	background-color: #00d6cb;
 }
 button:nth-child(8){
 	font-size: 20px;
-	background-color: #00fff2;
+	background-color: #00d6cb;
 }
 button:nth-child(12){
 	font-size: 20px;
-	background-color: #00fff2;
+	background-color: #00d6cb;
 }
 button:nth-child(16){
 	font-size: 20px;
-	background-color: #00fff2;
+	background-color: #00d6cb;
 }
 button:nth-child(20){
 	font-size: 30px;
-	background-color: #00fff2;
+	background-color: #00d6cb;
 }
 .equalto{
-    width: 59px;
+        width: 59px;
 	height: 59px;
 	margin: 8px;
 }
 .equalto:active{
 	font-size: 33px;
-    transform: scale(1.2);
+        transform: scale(1.2);
 }
